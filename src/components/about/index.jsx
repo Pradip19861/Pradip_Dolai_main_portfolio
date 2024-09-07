@@ -90,7 +90,7 @@ const AboutDetails = () => {
           >
             <img
               className="w-full h-auto"
-              src="https://github-readme-stats.vercel.app/api/pin/?username=Pradip19861&repo=nike-clone-app&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=Pradip19861&repo=Pradip_Dolai_main_portfolio&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2"
               alt="CodeBucks"
               loading="lazy"
             />
